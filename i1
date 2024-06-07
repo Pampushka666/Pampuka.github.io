@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel = "stylesheet" href ="G.css">
+    <title>UNO</title>
+  </head>
+  <body>
+    
+    
+    <header align = "center">
+      <ul>
+          <li><a href = "index.html">Главная</a></li>
+          <li>|</a></li>
+          <li><a href = "index2.html">Об игре</a></li>
+          <li>|</a></li>
+          <li><a href = "index3.html">Правила игры</a></li>
+          <li>|</a></li>
+          <li><a href = "index4.html">О нас</a></li>
+      </ul>
+      
+    </header>
+    <img src = "Uno.jpeg" width = "2545" , height="1200">
+  </body>
+</html>
